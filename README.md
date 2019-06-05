@@ -4,6 +4,7 @@
 Using data for a start up in the ride sharing business, I want to conduct analysis that will summarize the number of rides, number of drivers, and fare. It's important to understand the differences in such data by stratifying by urban, suburban, and rural city types. In doing so, the company can project where their most and least profits are made and could infer as to why. This allows for future goals and planning to optimize efficiency and profitability.
 Pandas and matplotlib are used to manipulate data and generate dataframes in addition to producing plots that visually summarize the findings.
 
+![Ride](Images/Ride.png)
 
 # Summary of Analyses
 ## Observable trends:
