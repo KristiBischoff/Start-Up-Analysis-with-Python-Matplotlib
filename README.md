@@ -11,3 +11,7 @@ Pandas and matplotlib are used to manipulate data and generate dataframes in add
 (1) Urban city type (overall) has the most drivers, the most riders, and the lowest average fare ($) compared to suburban and rural.
 (2) For number of riders, suburban does overlap a bit with urban city type per the plot, and the average fare ($) is higher but its number of drivers is overall decreased (compared to urban.) Rural city type is even more extreme than suburban. This could be attributable to having less drivers in the area and a greater amount of space between destinations for rural city type.
 (3) When comparing the pie charts, context should be used when noticing urban has the highest percentages for "% of total fare", "% of total drivers", and "% of total rides". If urban has the most drivers, and especially the most rides, then it would only make sense that urban city type would have the highest % of total fare. However, this doesn't mean that the rides are priced the highest for the urban city type.
+
+### Copyright
+
+Coding Boot Camp © 2018. All Rights Reserved.
