@@ -31,6 +31,3 @@ Pandas and matplotlib are used to manipulate data and generate dataframes in add
 
 (3) When comparing the pie charts, context should be used when noticing urban has the highest percentages for "% of total fare", "% of total drivers", and "% of total rides". If urban has the most drivers, and especially the most rides, then it would only make sense that urban city type would have the highest % of total fare. However, this doesn't mean that the rides are priced the highest for the urban city type.
 
-### Copyright
-
-Coding Boot Camp © 2018. All Rights Reserved.
